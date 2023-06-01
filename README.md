@@ -4,7 +4,7 @@ I'm a CS student interested in robots and AI, and sometimes when I don't want to
 ## More About Me
 :robot: Interested in **robotics**, **natural language processing**, and any intersections of the two!<br><br>
 :woman_technologist: Currently studying **computer architecture** and **automata theory**<br><br>
-:spiral_notepad: Teaching **web development** and **linear algebra**
+:spiral_notepad: Teaching **web development**, **linear algebra**, and elemntary math to kiddos!
 
 ## Tech Expertise
 - **Main Programming Languages:** Python, C, Java, SQL
