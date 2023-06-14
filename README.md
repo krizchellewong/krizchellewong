@@ -9,5 +9,5 @@ I'm a CS student interested in robots and AI, and sometimes when I don't want to
 ## Tech Expertise
 - **Main Programming Languages:** Python, C, Java, SQL
 - **Other Programming Languages:** C++, Ruby, Go, Javascript
-- **Hardware Experience:** Used Arduino microcontrollers, created and wried circuits, and integrated hardware sensors with software
+- **Hardware Experience:** Used Arduino microcontrollers, created and wired circuits, and integrated hardware sensors with software
 - **Machine Learning Experience:** scikit-learn and other natural language processing tools/concepts like vectorizers and tokenizers
