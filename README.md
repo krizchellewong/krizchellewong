@@ -7,7 +7,7 @@ I'm a CS student interested in robots and AI, and sometimes when I don't want to
 :spiral_notepad: Teaching **web development**, **linear algebra**, and other CS subjects on request
 
 ## Tech Expertise
-- **Main Programming Languages:** Python, C, Java, SQL
-- **Other Programming Languages:** C++, Ruby, Go, Javascript
+- **Main Programming Languages:** Python, C, Java, SQL, Javascript
+- **Other Programming Languages:** C++, C#, Ruby, Go, 
 - **Hardware Experience:** Used Arduino microcontrollers, created and wired circuits, and integrated hardware sensors with software
 - **Machine Learning Experience:** scikit-learn and other natural language processing tools/concepts like vectorizers and tokenizers
